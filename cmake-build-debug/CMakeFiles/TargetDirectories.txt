@@ -1,0 +1,3 @@
+C:/Users/Stalker/CLionProjects/TestTask/cmake-build-debug/CMakeFiles/TestTask.dir
+C:/Users/Stalker/CLionProjects/TestTask/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Stalker/CLionProjects/TestTask/cmake-build-debug/CMakeFiles/rebuild_cache.dir
